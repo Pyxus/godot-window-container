@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 10 10" enable-background="new 0 0 10 10" xml:space="preserve">
+<g id="Close_White">
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="0.5" y1="0.5" x2="9.5" y2="9.5"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="9.5" y1="0.5" x2="0.5" y2="9.5"/>
+</g>
+<g id="Close_1_" display="none">
+	<line display="inline" fill="none" stroke="#010101" stroke-miterlimit="10" x1="0.5" y1="0.5" x2="9.5" y2="9.5"/>
+	<line display="inline" fill="none" stroke="#010101" stroke-miterlimit="10" x1="9.5" y1="0.5" x2="0.5" y2="9.5"/>
+</g>
+<line id="Minimize" display="none" fill="none" stroke="#010101" stroke-miterlimit="10" x1="0" y1="5" x2="10" y2="5"/>
+<rect id="Maximize" x="0.5" y="0.5" display="none" fill="none" stroke="#010101" stroke-miterlimit="10" width="9" height="9"/>
+</svg>
